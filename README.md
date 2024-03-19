@@ -1,1 +1,3 @@
 # SNOMED-CT-Community
+
+[Community]

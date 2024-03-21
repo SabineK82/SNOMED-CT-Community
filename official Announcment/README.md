@@ -1,2 +1,0 @@
-# officialAnnouncements
-official Announcements

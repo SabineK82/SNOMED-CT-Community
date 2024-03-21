@@ -17,9 +17,10 @@ Unter Announcements sind aktuelle Richtlinien und News rund um Snomed CT zu find
 
 
 ### Announcements
-
+Unter diesem Repository findet man Aktualitäten rund um Snomed CT sowie Daten zu IG SNOMED treffen. Ihr seit herzlich eingeladen Online-Meetings innerhalb der Community zu organisieren und diese hier zu veröffentlichen. Gibt es zum Beispiel mehrere Anwender mit dem gleichen Problem oder Frage, wäre dies eventuell noch hilfreich. Wie oben erwähnt aktiv Mitmachen ist hier erwünscht. 
 
 ### Archive
+In diesem Repository werden die Diskussionen und Unterhaltungen der Community archiviert. Vielleicht ist die aktuelle Frage schon ein mal in einer vorhergehenden Diskussion gestellt, bez. beantwortet worden. Dann müsste man nicht auf eine Antwort eines anderen Anwenders warten. 
 
 ## Vorgehen des Community Managements
 

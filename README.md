@@ -1,4 +1,5 @@
 # SNOMED-CT-Community
 
-[a link](https://github.com/SabineK82/Archive#)
-[a link](https://github.com/SabineK82/Community#)
+[Archiv](https://github.com/SabineK82/Archive#)
+[Community](https://github.com/SabineK82/Community#)
+[Announcements](https://github.com/SabineK82/officialAnnouncements#)

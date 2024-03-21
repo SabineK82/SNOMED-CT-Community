@@ -1,4 +1,4 @@
 # SNOMED-CT-Community
 
-[https://github.com/SabineK82/SNOMED-CT-Community/tree/main/Archiv](url)
+[https://github.com/SabineK82/Archive#](url)
 https://github.com/SabineK82/SNOMED-CT-Community/tree/main/Archiv

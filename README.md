@@ -11,6 +11,7 @@ Unter [Archiv](https://github.com/SabineK82/Archive#) werden beantwortete Fragen
 
 ### Community
 Unter dem Repository Community ist die Netiquette und das Diskussionsforum ist verlinkt mit verschiedenen Themenbereichen. 
+General ist vorgesehen allgemeine Themen rund um Snomed zu diskutieren. 
 Q&A können technische wie auch allgemeine Fragen rund um Snomed gestellt und beantwortet werden. Ist die Frage beantwortet kann diese in den Status beantwortet gesetzt werden, am besten von demjenigen, welche die Frage gestellt hat. 
 Unter Ideen können Ideen zur Umsetzung wie auch allgemeine Ideen rund um Snomed und deren Anwendung kund getan werden. Entweder um Meinungen einzuholen, oder die Idee weiter reifen zu lassen. 
 Unter show and Tell sind  allgemeine Inputs zur Umsetzung wie auch allgemein zum Thema Snomed CT zu hinterlassen. 

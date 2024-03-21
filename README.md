@@ -25,8 +25,10 @@ In diesem Repository werden die Diskussionen und Unterhaltungen der Community ar
 
 ## Vorgehen des Community Managements
 
-Die gesamte Kommunikation dieser Plattform untersteht den Regeln von Github mit dem entsprechenden [Code of Conduct](https://docs.github.com/en/site-poicy/github-terms/github-community-guidelines). Diese Regeln müssen eingehalten werden. Persönliche Interferenzen haben hier keinen Raum. Alle sorgen für eine zielorientierte sachliche Kommunikation. Dies ist eine öffentliche Plattform, welche die Autorenrechte ernst nimmt. Bitte passt auf, was ihr wie veröffentlicht. 
+Die gesamte Kommunikation dieser Plattform untersteht den Regeln von Github mit dem entsprechenden [Code of Conduct](https://docs.github.com/en/site-poicy/github-terms/github-community-guidelines). Diese Regeln müssen eingehalten werden. Persönliche Interferenzen haben hier keinen Raum. Alle sorgen für eine zielorientierte sachliche Kommunikation. Dies ist eine öffentliche Plattform, welche die Autorenrechte ernst nimmt. Bitte passt auf, was ihr wie veröffentlicht. Werden die Regeln von Github oder die Netiquette  [Community](https://github.com/SabineK82/Community#) nicht eingehalten behaltet sich das Community Management vor die Inhalte zu löschen und bei mehrmaligem Verstoss diese Anwender auszuschliessen. 
+
 In regelmässigen Abständen werden die beantworteten Fragen, sowie beendete Diskussionsstränge ins Archiv überführt. 
 
 
 ### Quellen
+
